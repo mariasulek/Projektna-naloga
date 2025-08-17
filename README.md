@@ -20,7 +20,7 @@ Za zagon analize so potrebne naslednje knjižnice:
 beautifulsoup, requests, os, csv, pandas, json, matplotlib.pyplot in time.
 
 ### Datoteke
-- 'podatki.py' prenese podatke o WTA igralkah z uradne spletne strani in jih shrani v lokalno datoteko wta_500_igralk_vsa_leta,json.
-- 'shrani.py' podatke, podane v obliki JSON slovarjev s pomočjo knjižnice pandas preoblikuje v tabelo z informacijami o igralkah in jih shrani v datoteko wta_igralke.csv.
-- 'kontinenti.py' doda stolpec kontinent k obstoječi tabeli wta_igralke.csv, tako da vsaki igralki določi, iz katere celine prihaja glede na njeno državo.
-- 'analiza.ipynb' vsebuje zaključeno analizo z grafi in histogrami
+- 'podatki.py' prenese podatke o WTA igralkah z uradne spletne strani in jih shrani v lokalno datoteko "wta_500_igralk_vsa_leta,json".
+- 'shrani.py' podatke, podane v obliki JSON slovarjev s pomočjo knjižnice pandas preoblikuje v tabelo z informacijami o igralkah in jih shrani v datoteko "wta_igralke.csv".
+- 'kontinenti.py' doda stolpec kontinent k obstoječi tabeli "wta_igralke.csv", tako da vsaki igralki določi, iz katere celine prihaja glede na njeno državo.
+- 'analiza_podatkov.ipynb' prikazuje zaključeno analizo podatkov, dopolnjeno z grafi in histogrami.
