@@ -36,9 +36,6 @@ def shrani_igralke(igralke):
     tabela['starost'] = ((tabela['datum_ranga'] - tabela['datum_rojstva']).dt.days / 365.25).round(0).astype(int)
     tabela = tabela.drop(columns=['datum_ranga'])
 
-    
-
-
 
     stolpci_vrstni_red = [
         "id_igralke",
