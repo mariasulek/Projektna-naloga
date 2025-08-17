@@ -2,6 +2,8 @@
 ## Analiza igralk na WTA lestvici
 Avtorica: Maria Šulek
 
+Avgust 2025
+
 ### Uvod 
 V tej analizi obravnavam WTA lestvico najboljših teniških igralk. Zajela sem podatke o najboljših 250 igralkah na WTA lestvici od leta 2000 do 2024. Namen analize je raziskati vzorce, ki se pojavljajo med igralkami.
 
