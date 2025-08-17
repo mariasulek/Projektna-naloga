@@ -11,7 +11,7 @@ Osredotočila sem se predvsem na dve vprašanji:
 
 - Povprečna starost igralk – pričakujem, da se povprečna starost igralk v top 250 skozi čas zvišuje, enak trend pa velja tudi za starost igralk med najboljšimi desetimi.
 
-- dodaj
+- Od kod prihajajo najboljše igralke na svetu? Hipoteza je, da najboljše igralke na svetu prihajajo iz Severne Amerike, predvsem iz Združenih držav Amerike.
 
 Analizirala pa sem tudi: razlike v številu točk med najboljšimi 10 igralkami in ostalimi, obstojnost igralk med najboljšimi desetimi in na vrhu lestvice skozi čas ter pogostost imen igralk na WTA lestvici.
 
