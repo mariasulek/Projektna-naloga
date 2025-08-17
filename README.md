@@ -15,7 +15,7 @@ Osredotočila sem se predvsem na dve vprašanji:
 
 Analizirala pa sem tudi: razlike v številu točk med najboljšimi 10 igralkami in ostalimi, obstojnost igralk med najboljšimi desetimi in na vrhu lestvice skozi čas ter pogostost imen igralk na WTA lestvici.
 
-Vse podatke sem zajela iz spletne strani [WTA Tennis](https://www.wtatennis.com/rankings/singles)
+Vse podatke sem zajela iz spletne strani [WTA Tennis](https://www.wtatennis.com/rankings/singles).
 
 ### Potrebne knjižnice
 Za zagon analize so potrebne naslednje knjižnice:
